@@ -52,7 +52,7 @@ steps:
 
 schedules:
 - cron: "0 3 * * 1-5"
-  displayName: Weekly Sunday build
+  displayName: Morning 3am build
   branches:
     include:
     - main
