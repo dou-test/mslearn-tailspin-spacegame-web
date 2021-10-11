@@ -54,5 +54,5 @@ steps:
   displayName: Weekly Sunday build
   branches:
     include:
-    - *
+    - main
   always: true
